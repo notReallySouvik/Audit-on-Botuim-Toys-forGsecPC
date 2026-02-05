@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.icons8.com/?size=48&id=17949&format=png" 
+       alt="Google Logo" 
+       width="200"/>
+</p>
+
 # Botium Toys – Internal Security Audit  
 Google Cybersecurity Professional Certificate
 
